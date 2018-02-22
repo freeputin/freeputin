@@ -1,2 +1,2 @@
 git checkout --orphan gh-pages
-baseurl: /proverigjen
+baseurl: /provigjen
