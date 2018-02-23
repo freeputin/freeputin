@@ -10,6 +10,7 @@ ul.list {
 
 ul.list li {
     float: left;
+    margin: inherit;
     padding-left: 40px;
     padding-right: 75px;
 }
