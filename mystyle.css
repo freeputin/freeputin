@@ -20,6 +20,9 @@ ul.list li {
 #content { 
     width: 450px;
     margin: 0 auto;
+    border: 2px solid AntiqueWhite ;
+    border-radius: 5px;
+    border-style: dotted;
     
 }
 a {
