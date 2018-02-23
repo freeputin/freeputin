@@ -1,9 +1,9 @@
 #header {
 }
 ul.list {
-    ul.list {
     white-space: nowrap;
     display: inline;
+    
     list-style: none;
     padding-top: 30px;
     font-size: 25px;
@@ -11,7 +11,8 @@ ul.list {
 }
 
 ul.list li {
-    float: left;
+    white-space: nowrap;
+    display: inline;
     padding-left: 40px;
     padding-right: 75px;
 }
