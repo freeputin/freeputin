@@ -14,11 +14,6 @@ ul.list li {
     padding-right: 75px;
 }
 
-#content { 
-    width: 450px;
-    margin: 0 auto;
-    
-}
 a {
     text-decoration: none;
     
@@ -53,4 +48,9 @@ a:active {
 
 .copyright {
     color: whitesmoke;
+}
+
+#blogpost {
+    width: 450px;
+    margin: 0 auto;
 }
