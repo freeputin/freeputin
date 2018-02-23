@@ -2,7 +2,7 @@
 }
 ul.list {
     float: left;
-    display: inline;
+    display: inline-block;
     list-style: none;
     padding-top: 30px;
     font-size: 25px;
