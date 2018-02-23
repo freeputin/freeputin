@@ -61,6 +61,8 @@ a:active {
     border-style: dotted;
     border-spacing: 15px;
     line-height: 1.6;
+    overflow: scroll;
+
 }
 .date {
     opacity: 0.35;
