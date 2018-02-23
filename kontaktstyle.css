@@ -5,6 +5,7 @@ ul.list {
     padding-top: 30px;
     font-size: 25px;
     padding-left: 330px;
+    float: left;
 }
 
 ul.list li {
