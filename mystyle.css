@@ -1,12 +1,13 @@
 #header {
 }
 ul.list {
-    float: left;
-    display: inline-block;
+    white-space: nowrap;
+    display: inline;
+    
     list-style: none;
     padding-top: 30px;
     font-size: 25px;
-    padding-left: 400px;
+    padding-left: 330px;
 }
 
 ul.list li {
