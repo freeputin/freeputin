@@ -50,6 +50,7 @@ a:active {
     margin-top: 40px;
     position: fixed; bottom: 0px;
     width: 1500;
+    float: left;
 }
 
 .container {
