@@ -14,7 +14,9 @@ ul.list li {
     padding-right: 75px;
 }
 
-#content {
+#content { 
+    width: 450px;
+    margin: 0 auto;
     
 }
 a {
@@ -41,7 +43,7 @@ a:active {
     padding-bottom: 0px;
     margin-top: 40px;
     position: fixed; bottom: 0px;
-    width: 1400;
+    width: 1500;
 }
 
 .container {
