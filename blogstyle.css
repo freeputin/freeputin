@@ -57,3 +57,5 @@ a:active {
     width: 450px;
     margin: 0 auto;
 }
+.info {
+    opacity: 0.35;
