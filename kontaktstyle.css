@@ -1,0 +1,59 @@
+ul.list {
+    white-space: nowrap;
+    display: inline;
+    list-style: none;
+    padding-top: 30px;
+    font-size: 25px;
+    padding-left: 330px;
+}
+
+ul.list li {
+    white-space: nowrap;
+    display: inline;
+    padding-left: 40px;
+    padding-right: 75px;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+a:link {
+    color: burlywood;
+}
+a:visited {
+    color: burlywood;
+}
+a:hover {
+    color: antiquewhite;
+}
+a:active {
+    color: antiquewhite;
+}
+
+
+#footer {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-top: 40px;
+    position: fixed; bottom: 0px;
+    width: 1500;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.copyright {
+    color: whitesmoke;
+}
+#email {
+    width: 450px;
+    margin: 10 auto;
+    border: 2px solid cyan ;
+    border-radius: 5px;
+    border-style: dotted;
+}
