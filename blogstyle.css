@@ -62,6 +62,7 @@ a:active {
     border-radius: 5px;
     border-style: dotted;
     border-spacing: 15px;
+    margin-bottom: 65px;
 }
 .date {
     opacity: 0.35;
