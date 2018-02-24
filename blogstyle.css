@@ -57,12 +57,12 @@ a:active {
 .blogpost {
     width: 450px;
     overflow-y: scroll;
-    margin-top: 10 auto;
+    margin-top: 10px;
     border: 2px solid cyan;
     border-radius: 5px;
     border-style: dotted;
     border-spacing: 15px;
-    margin-bottom: 65px auto;
+    margin-bottom: 65px;
 }
 .date {
     opacity: 0.35;
