@@ -53,7 +53,7 @@ a:active {
     color: whitesmoke;
 }
 
-#blogpost {
+#blogs {
     width: 450px;
     margin: 10 auto;
     border: 2px solid cyan ;
@@ -61,8 +61,12 @@ a:active {
     border-style: dotted;
     border-spacing: 15px;
     line-height: 1.6;
-    overflow-y: scroll;
+    
 
+}
+
+.blogpost {
+    overflow-y: scroll;
 }
 .date {
     opacity: 0.35;
