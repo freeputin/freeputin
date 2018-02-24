@@ -61,7 +61,7 @@ a:active {
     border-style: dotted;
     border-spacing: 15px;
     line-height: 1.6;
-    overflow: scroll;
+    overflow: auto;
 
 }
 .date {
