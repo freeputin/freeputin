@@ -42,7 +42,7 @@ a:active {
     margin-top: 40px;
     position: fixed; 
     bottom: 0px;
-    width: 1500;
+    width: 100%;
 }
 
 .container {
@@ -58,8 +58,9 @@ a:active {
 .blogpost {
     overflow-y: scroll;
     width: 450px;
-    margin: 10 auto;
-    border: 2px solid cyan ;
+    margin-top: 10 auto;
+    margin-bottom: 45px;
+    border: 2px solid cyan;
     border-radius: 5px;
     border-style: dotted;
 }
