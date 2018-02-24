@@ -56,11 +56,12 @@ a:active {
 #blogs {
     width: 450px;
     line-height: 1.6;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     
 }
 
 .blogpost {
+    width: 450px;
     overflow-y: scroll;
     margin: 10 auto;
     border: 2px solid cyan;
