@@ -55,11 +55,7 @@ a:active {
 
 #blogs {
     width: 450px;
-    margin: 10 auto;
-    border: 2px solid cyan ;
-    border-radius: 5px;
-    border-style: dotted;
-    border-spacing: 15px;
+    
     line-height: 1.6;
     margin-bottom: 50px;
     
@@ -68,6 +64,11 @@ a:active {
 
 .blogpost {
     overflow-y: scroll;
+    margin: 10 auto;
+    border: 2px solid cyan ;
+    border-radius: 5px;
+    border-style: dotted;
+    border-spacing: 15px;
 }
 .date {
     opacity: 0.35;
