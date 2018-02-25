@@ -58,8 +58,8 @@ a:active {
 .blogpost {
     overflow-y: scroll;
     width: 450px;
-    margin-top: 10 auto;
-    border: 2px solid cyan;
+    margin: 10 auto;
+    border: 2px solid cyan ;
     border-radius: 5px;
     border-style: dotted;
 }
