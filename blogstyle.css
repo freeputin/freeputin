@@ -40,14 +40,17 @@ a:active {
     padding-top: 20px;
     padding-bottom: 0px;
     margin-top: 40px;
-    position: fixed; 
-    bottom: 0px;
-    width: 100%;
+    position: fixed; bottom: 0px;
+    width: 1500;
+    float: left;
 }
 
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
 
-
-.copy {
+.copyright {
     color: whitesmoke;
 }
 
