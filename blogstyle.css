@@ -1,6 +1,6 @@
 #header {
 }
-ul.list {
+ol.list {
     white-space: nowrap;
     display: inline;
     list-style: none;
@@ -10,7 +10,7 @@ ul.list {
     float: left;
 }
 
-ul.list li {
+ol.list li {
     white-space: nowrap;
     display: inline;
     padding-right: 75px;
