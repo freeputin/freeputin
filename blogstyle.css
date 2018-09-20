@@ -8,13 +8,13 @@ ol.list {
     font-size: 25px;
     padding-left: 330px;
     float: left;
-    border-style: dashed; 
 }
 
 ol.list li {
     white-space: nowrap;
     display: inline;
     padding-right: 75px;
+    border-style: dashed; 
 }
 
 a {
