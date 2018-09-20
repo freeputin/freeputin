@@ -8,6 +8,7 @@ ol.list {
     font-size: 25px;
     padding-left: 330px;
     float: left;
+    border: 2px;
 }
 
 ol.list li {
