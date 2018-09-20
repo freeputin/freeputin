@@ -6,6 +6,8 @@ ul.list {
     font-size: 25px;
     padding-left: 330px;
     float: left;
+    border-radius: 40px;
+    border: 2px solid aqua;
 }
 
 ul.list li {
